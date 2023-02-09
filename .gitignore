@@ -9,7 +9,7 @@ target/
 .idea/compiler.xml
 .idea/libraries/
 *.iws
-*.iml
+
 *.ipr
 
 ### Eclipse ###
@@ -36,3 +36,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+.idea/
